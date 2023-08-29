@@ -1,9 +1,5 @@
 <template>
-  <h1>{{ data?.items.length }}</h1>
+    <div>
+        <h1>hello world</h1>
+    </div>
 </template>
-
-<script setup lang="ts">
-const { $api } = useNuxtApp();
-
-const { data } = await $api.accounts.getAccounts();
-</script>

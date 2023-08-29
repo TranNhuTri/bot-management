@@ -13,6 +13,9 @@
     "@nuxtjs/tailwindcss": "^6.8.0",
     "@types/node": "^18.17.3",
     "nuxt": "^3.6.5",
-    "ofetch": "^1.3.3"
+    "ofetch": "^1.3.3",
+    "vue-tabler-icons": "^2.21.0",
+    "vue3-perfect-scrollbar": "^1.6.1",
+    "vuetify": "^3.3.14"
   }
 }
