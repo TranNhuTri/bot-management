@@ -19,6 +19,9 @@
                     <Menu2Icon size="20"/>
                 </v-btn>
             </div>
+            <div>
+                <LayoutHeaderProfile />
+            </div>
         </div>
     </v-app-bar>
 </template>
